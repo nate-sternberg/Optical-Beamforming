@@ -1,19 +1,19 @@
 # Fdb version 4
-["bibtex latex/Optical Beamforming Project Proposal"] 1790738281.15718 "latex/Optical Beamforming Project Proposal.aux" "latex/Optical Beamforming Project Proposal.bbl" "latex/Optical Beamforming Project Proposal" 1790738443.921 0
+["bibtex latex/Optical Beamforming Project Proposal"] 1790738281.15718 "latex/Optical Beamforming Project Proposal.aux" "latex/Optical Beamforming Project Proposal.bbl" "latex/Optical Beamforming Project Proposal" 1790740138.82644 0
   "./citations.bib" 1790737816.75829 1385 4b7197513eb876c3457b1de979aa1f07 ""
   "/usr/local/texlive/2026/texmf-dist/bibtex/bst/urlbst/unsrturl.bst" 1675116457 30912 2cfc330ae0a68bbf7dc64e1666bbb15c ""
-  "latex/Optical Beamforming Project Proposal.aux" 1790738443.40025 658 d61b44951c7c40257d4d10bf8651f796 "xelatex"
+  "latex/Optical Beamforming Project Proposal.aux" 1790740138.34116 658 d61b44951c7c40257d4d10bf8651f796 "xelatex"
   (generated)
   "latex/Optical Beamforming Project Proposal.bbl"
   "latex/Optical Beamforming Project Proposal.blg"
   (rewritten before read)
-["xdvipdfmx"] 1790738443.6195 "latex/Optical Beamforming Project Proposal.xdv" "Optical Beamforming Project Proposal.pdf" "Optical Beamforming Project Proposal" 1790738443.92211 0
-  "latex/Optical Beamforming Project Proposal.xdv" 1790738443.40069 51440 77970090a987b2673f2cd1cc357d4029 "xelatex"
+["xdvipdfmx"] 1790740138.55037 "latex/Optical Beamforming Project Proposal.xdv" "Optical Beamforming Project Proposal.pdf" "Optical Beamforming Project Proposal" 1790740138.8272 0
+  "latex/Optical Beamforming Project Proposal.xdv" 1790740138.34159 51420 bc1656793919457cc56922342d877852 "xelatex"
   (generated)
   "Optical Beamforming Project Proposal.pdf"
   (rewritten before read)
-["xelatex"] 1790738442.89627 "/Users/nate/Documents/Home/Contexts/Research/Optical Beamforming/Optical Beamforming Project Proposal.tex" "latex/Optical Beamforming Project Proposal.xdv" "Optical Beamforming Project Proposal" 1790738443.9211 0
-  "/Users/nate/Documents/Home/Contexts/Research/Optical Beamforming/Optical Beamforming Project Proposal.tex" 1790738442.65119 5346 0eae3bd72d78e0181247cb7b4906f4c9 ""
+["xelatex"] 1790740137.84881 "/Users/nate/Documents/Home/Contexts/Research/Optical Beamforming/Proposal/Optical Beamforming Project Proposal.tex" "latex/Optical Beamforming Project Proposal.xdv" "Optical Beamforming Project Proposal" 1790740138.82652 0
+  "/Users/nate/Documents/Home/Contexts/Research/Optical Beamforming/Proposal/Optical Beamforming Project Proposal.tex" 1790740137.64354 5344 c7ef99476bf54e3c3708d9e6f63a9486 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-ot1.tfm" 1600636029 3008 ca0c83ca288d9f1c5d2fca0e8e268f10 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm" 1589834365 760 e8ec875a87aa119f1af7ea4be48da9e8 ""
@@ -85,8 +85,8 @@
   "/usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf" 1770478701 43630 e9fa012910491fe5ae08a72c3c2997a7 ""
   "/usr/local/texlive/2026/texmf-var/web2c/xetex/xelatex.fmt" 1774209578 5948559 ca66a59f4cdd4ce9709bed46018cb9cb ""
   "/usr/local/texlive/2026/texmf.cnf" 1774209515 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
-  "Optical Beamforming Project Proposal.tex" 1790738442.65119 5346 0eae3bd72d78e0181247cb7b4906f4c9 ""
-  "latex/Optical Beamforming Project Proposal.aux" 1790738443.40025 658 d61b44951c7c40257d4d10bf8651f796 "xelatex"
+  "Optical Beamforming Project Proposal.tex" 1790740137.64354 5344 c7ef99476bf54e3c3708d9e6f63a9486 ""
+  "latex/Optical Beamforming Project Proposal.aux" 1790740138.34116 658 d61b44951c7c40257d4d10bf8651f796 "xelatex"
   "latex/Optical Beamforming Project Proposal.bbl" 1790738281.25745 581 3b198640261ce418bcdc005690d0f3ea "bibtex latex/Optical Beamforming Project Proposal"
   (generated)
   "latex/Optical Beamforming Project Proposal.aux"

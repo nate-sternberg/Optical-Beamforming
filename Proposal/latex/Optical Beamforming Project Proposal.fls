@@ -1,8 +1,8 @@
-PWD /Users/nate/Documents/Home/Contexts/Research/Optical Beamforming
+PWD /Users/nate/Documents/Home/Contexts/Research/Optical Beamforming/Proposal
 INPUT /usr/local/texlive/2026/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-var/web2c/xetex/xelatex.fmt
-INPUT /Users/nate/Documents/Home/Contexts/Research/Optical Beamforming/Optical Beamforming Project Proposal.tex
+INPUT /Users/nate/Documents/Home/Contexts/Research/Optical Beamforming/Proposal/Optical Beamforming Project Proposal.tex
 OUTPUT latex/Optical Beamforming Project Proposal.log
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/base/article.cls
