@@ -1,0 +1,114 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{newtx}
+\usepackage[margin=1in]{geometry}
+\usepackage{indentfirst}
+\usepackage{url}
+
+\usepackage{titlesec}
+\titleformat{\section}
+  {\normalfont\fontsize{12}{12}\selectfont\bfseries}
+  {\thesection}{1em}{}
+
+\setcounter{secnumdepth}{0}
+
+\usepackage{setspace}
+\doublespacing % Applies double spacing globally
+
+\date{}
+
+\title{
+  \fontsize{14}{16}\selectfont \underline{
+    \textbf{Steering Optical Signals In The Visible Light Spectrum Using Beamforming}
+    }
+}
+
+\begin{document}
+
+\maketitle
+\vspace{-7em}
+
+\section{Background}
+\vspace{-1em}
+\par
+Many modern systems in many different fields involve steering
+electromagnetic wavefronts at various different wavelengths. At smaller
+wavelengths, the techniques for steering these electromagnetic waves
+fall under the category of optics, and the steering is typically carried
+out with specialized tools called lenses, which are specialized
+materials in specific shapes that affect the velocity of the wave moving
+through in such a way as to change the direction of the wave
+propagation. In many circumstances, lenses can present their own
+engineering challenges, such as heating under high energy, and can take
+a lot of space in space-constrained applications.
+\par
+In larger wavelength electromagnetic wave applications, such as radar, and
+in acoustic applications, there is another common technique for steering
+the propagation of waves, called beamforming. Beamforming is a signal
+processing technique that steers the wavefront by slightly altering the
+phase of a given signal broadcast from multiple antennas in a single
+array, causing constructive interference in the desired direction, and
+destructive interference in every other direction \cite{Lichtman_PySDR_2023}.
+\par
+While beamforming is an established signal processing technique, and used
+widely in many fields, in visible light applications it is mainly used for Visible
+Light Communication \cite{GUPTA2024111182}. This application is useful, but low power
+and limited in scope. More general applications, like replacing optical systems, have
+had not had very much exploration.
+\par
+This project aims to apply beamforming techniques to
+visible light, in order to steer the visible light in a way similar to
+optical lenses, to attempt to create an optical system that does not
+require physical lenses.
+
+\section{Question}
+Can beamforming techniques be used to steer visible light signals,
+and can this be used as a suitable alternative to physical optics?
+
+\section{Hypothesis}
+It is possible to steer visible light signals using beamforming techniques, 
+and this can be used as a suitable alternative to physical optics in some applications.
+
+\section{Methods}
+The first part of this experiment will involve developing computer simulations of the 
+wave propagation of visible light. This will lead into simulating a physical source
+array, and these simulations will be used to develop a model for a physical array. Twenty
+hours across the span of two weeks will be allotted for the development and validation of 
+these simulation models. 
+\par
+Next, the physical array will be chosen and constructed. This will likely consist of some sort of
+LED display, but the simulations will provide more exact array implementation details. The 
+array construction will also include a light sensor array\cite{Analog_Devices}, to quantifiably validate the 
+beamforming results. The construction and testing of this setup will take an additional 
+twenty hours across two weeks. 
+\par
+The third step of this experiment will involve writing a program to turn the simulated
+beamforming steering math into some instructions the array can actually execute. This 
+will involve writing code to individually control subsections of the array, and to pulse
+those sections with the frequency and phase shifts necessary for beamforming to take place.
+Presumably this will be the most complicated part of the project, and fourty hours will be
+allotted to this across the span of four weeks.
+\par
+The fourth step of this experiment involves quantifiably validating the experimental results,
+and will involve writing a program to read from the aforementioned light sensor and log the 
+recieved light data at different locations relative to the array. The point of this is to show
+that beamforming is actually occurring, and that will be shown by an increase in brightness at 
+the intended location. This will take an additional twenty hours over two weeks.
+\par
+Finally, the results will be analyzed, and a final report and presentation will be written to
+summarize the findings of the experiment. Another twenty hours across two weeks will be allotted
+for this.
+
+\section{Significance}
+The aim of this experiment is to determine if beamforming techniques could be used to supplant
+traditional optical systems. If this is the casae, many optical applications can become
+very simplified and much more efficient. This technique could be useful in heads up displays,
+virtual reality, telescopes, and even Extreme UltraViolet (EUV) semiconductor manufacturing. The
+benefits of this could be far reaching, reducing cost and leading to the development of new, simpler,
+and more efficient technologies.
+
+
+\bibliographystyle{unsrturl}
+\bibliography{citations}
+
+\end{document}

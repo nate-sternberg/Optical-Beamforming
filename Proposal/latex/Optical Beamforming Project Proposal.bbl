@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{Lichtman_PySDR_2023}
+Marc Lichtman.
+\newblock {PySDR: A Guide to SDR and DSP using Python}.
+\newblock \url{https://pysdr.org/}, 2023.
+
+\bibitem{GUPTA2024111182}
+Satvik Gupta, Debangan Roy, Siddharth Bose, Vipul Dixit, and Atul Kumar.
+\newblock Illuminating the future: A comprehensive review of visible light communication applications.
+\newblock {\em Optics \& Laser Technology}, 177:111182, 2024.
+
+\bibitem{Analog_Devices}
+Analog Devices.
+\newblock \url{https://www.analog.com/en/resources/glossary/light-sensor.html}.
+
+\end{thebibliography}
